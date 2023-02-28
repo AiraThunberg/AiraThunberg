@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **making coffee**
 
-- 👨‍💻 All of my projects were made by [Aitzaz Imtiaz](Aitzaz Imtiaz)
+- 👨‍💻 All of my projects were made by [Aitzaz Imtiaz](https://github.com/AitzazImtiaz)
 
 - 📝 I regularly post questions by Aitzaz on [https://codegolf.stackexchange.com/users/117038/aira-thunberg](https://codegolf.stackexchange.com/users/117038/aira-thunberg)
 
